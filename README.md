@@ -2,7 +2,7 @@
 - all codes are in the codes folder and all data (including processed data) are in the data folder
 - order to run the codes (how to run the codes):
    - run data_downsample_and_diagrams_for_presentation.ipynb to downsized the dataset to 10k
-   - run Lexicon-Based Sentiment analysis.ipynb to process and clean the dataset
+   - run Lexicon-Based Sentiment analysis.ipynb to process and clean the dataset if needed
    - run models according to the file names:
         -eg. Run all code cells as described by the comments in BERT.ipynb to reproduce the BERT model. Note: BERT.ipynb may not display correctly on GitHub due to a widget metadata issue, but if you download the file and open it in Google Colab, it still works properly.
 - link to data:
