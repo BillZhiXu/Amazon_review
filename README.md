@@ -5,7 +5,7 @@
    - run Lexicon-Based Sentiment analysis.ipynb to process and clean the dataset if needed
    - run models according to the file names:
         -eg. Run all code cells as described by the comments in BERT.ipynb to reproduce the BERT model. Note: BERT.ipynb may not display correctly on GitHub due to a widget metadata issue, but if you download the file and open it in Google Colab, it still works properly.
-- link to data:
+- link to data: https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/data
 - links to models:
    - For DistillBERT: https://huggingface.co/docs/transformers/en/model_doc/distilbert#transformers.DistilBertForSequenceClassification
    - For openai: https://platform.openai.com/docs/overview
